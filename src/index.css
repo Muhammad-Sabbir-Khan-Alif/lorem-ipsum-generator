@@ -1,0 +1,46 @@
+.main-heading{
+  text-align: center;
+  text-transform: uppercase;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main-div{
+  padding-top: 160px;
+}
+.select-div{
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.para-text{
+  float: left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin-left: 50px;
+}
+#select{
+  width: 70px;
+  margin-left: 5px;
+  background-color: #b5b1a7;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  padding: 5px;
+}
+.gen-btn{
+  margin-left: 8px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: #199e36;
+  color: white;
+  padding: 5px;
+  transition: 0.3s;
+}
+.gen-btn:hover{
+  background-color: #2d6b3a;
+  box-shadow: 0 0 3px #595e5a;
+}
+.output-div{
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
